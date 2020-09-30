@@ -3,4 +3,16 @@
     <item type="layout" name="launch_screen">
         @layout/launch_screen
     </item>
+    <item type="id" name="imageLogo">
+        @id/imageLogo
+    </item>
+    <item type="id" name="imageLeft">
+        @id/imageLeft
+    </item>
+    <item type="id" name="imageRight">
+        @id/imageRight
+    </item>
+    <item type="id" name="imageBottom">
+        @id/imageBottom
+    </item>
 </resources>
